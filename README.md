@@ -1,5 +1,5 @@
  ---
-# 2 WHEELER SAFETY - Data Logger
+# DATA LOGGER FOR 2 WHEELER SAFETY
 
 ## Project Overview
 ---
